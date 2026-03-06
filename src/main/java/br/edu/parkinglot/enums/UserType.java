@@ -1,4 +1,4 @@
-package br.edu.parkinglot.model;
+package br.edu.parkinglot.enums;
 
 public enum UserType {
     ALUNO,
