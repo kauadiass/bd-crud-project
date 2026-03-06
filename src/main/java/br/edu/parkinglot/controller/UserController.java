@@ -1,7 +1,6 @@
 package br.edu.parkinglot.controller;
 
 import br.edu.parkinglot.model.User;
-import br.edu.parkinglot.repository.UserRepository;
 import br.edu.parkinglot.service.UserService;
 import org.springframework.web.bind.annotation.*;
 

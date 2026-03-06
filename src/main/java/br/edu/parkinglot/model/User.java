@@ -1,5 +1,6 @@
 package br.edu.parkinglot.model;
 
+import br.edu.parkinglot.enums.UserType;
 import jakarta.persistence.*;
 
 @Entity
